@@ -1,0 +1,138 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.topcontainer{
+    background-color: #8758FF;
+}
+.middlecontainer {
+    background-color: #F5F5F5;
+    padding-bottom: 100px;
+}
+h1 {
+    font-size: 50px;
+    padding-top: 60px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+h3 {
+    padding-top: 50px;
+}
+h2 {
+    padding-top: 50px;
+    font-family: 'Teko';
+    font-size: 30px;
+    color: gray;
+}
+.bio {
+    padding-bottom: 40px;
+    color: #3F0071;
+}
+p {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.top-cloud {
+    position: absolute;
+    top: 10px;
+    right: 450px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+}
+.me {
+    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+}
+.line1 {
+    border:none;
+    border-top: black dotted;
+    border-width: 7px;
+    padding-top: 30px;
+    height: 1px;
+    width: 5%;
+    margin: 0 auto 0 auto;
+}
+.skills {
+    position: relative;
+    top: 115px;
+    margin-right: 600px;
+    left: 20px;
+}
+#ski1 {
+    height: 230px;
+}
+#ski2 {
+    height: 200px;
+}
+.skill1theory { 
+    color: crimson;
+    width: 450px;
+    position: relative;
+    left: 620px;
+    bottom: 30px;
+    line-height: 2;
+    text-align: left;
+}
+.web {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    bottom: 255px;
+    right: 45px;
+}
+#the2 {
+    position: relative;
+    bottom: 30px;
+}
+#top2 {
+    position: relative;
+    bottom: 255px;
+    right: 100px;
+}
+#l1 {
+    position: relative;
+    top: 30px;
+}
+#con {
+    padding-top: 50px;
+    color: darkmagenta;
+    padding-bottom: 50px;
+}
+.contact {
+    width: 100px;
+    height: 30px;
+    background-color: #8d0a58;  
+    color: white;  
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.contact:hover {
+    background-color: cornflowerblue;
+    color: black;
+}
+.bottomcontainer {
+    background-color: #5C2E7E;
+    padding: 50px;
+}
+.link {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #C47AFF;
+    text-decoration: none;
+}
+.link:hover {
+    color: lavenderblush;
+}
+.copyright {
+    font-size: 10px;
+    color: white;
+    padding-top: 25px;
+}
